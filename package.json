@@ -1,7 +1,7 @@
 {
   "name": "net.tnrd.enumasindex",
   "displayName": "Enum As Index",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "unity": "2019.1",
   "description": "An attribute that allows you to use an enum as an index for arrays and lists",
   "keywords": [
@@ -16,6 +16,6 @@
     "url": "https://www.tnrd.net"
   },
   "dependencies": {
-    "net.tnrd.constrainedrect": "2.0.1"
+    "net.tnrd.constrainedrect": "2.1.0"
   }
 }
