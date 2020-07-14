@@ -1,21 +1,21 @@
 {
-	"name": "net.tnrd.enumasindex",
-	"displayName": "Enum As Index",
-	"version": "1.0.1",
-	"unity": "2019.1",
-	"description": "An attribute that allows you to use an enum as an index for arrays and lists",
-	"keywords": [
-		"enum",
-		"index",
-		"list",
-		"array"
-	],
-	"author": {
-		"name": "Christiaan Bloemendaal",
-		"email": "unity3d@tnrd.net",
-		"url": "https://www.tnrd.net"
-	},
-	"dependencies": {
-		"net.tnrd.constrainedrect": "https://github.com/Thundernerd/Unity3D-ConstrainedRect.git@2.1.0"
-	}
+  "name": "net.tnrd.enumasindex",
+  "displayName": "Enum As Index",
+  "version": "1.0.2",
+  "unity": "2019.1",
+  "description": "An attribute that allows you to use an enum as an index for arrays and lists",
+  "keywords": [
+    "enum",
+    "index",
+    "list",
+    "array"
+  ],
+  "author": {
+    "name": "Christiaan Bloemendaal",
+    "email": "unity3d@tnrd.net",
+    "url": "https://www.tnrd.net"
+  },
+  "dependencies": {
+    "net.tnrd.constrainedrect": "2.0.1"
+  }
 }
