@@ -11,10 +11,14 @@ namespace TNRD.Utilities
         public EnumAsIndexAttribute(Type type)
         {
             if (type == null)
+            {
                 throw new ArgumentNullException(nameof(type), "To use the EnumAsIndex attribute please pass a valid type");
+            }
 
             if (!type.IsEnum)
+            {
                 throw new ArgumentException($"Type '{type.Name}' is not an enum");
+            }
 
             Type = type;
         }
