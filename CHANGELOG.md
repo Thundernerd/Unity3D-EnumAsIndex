@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.4] - 2020-10-17
+
+### Updated
+- Readme
+- Package Author
+
 ## [1.0.3] - 2020-07-14
 
 ### Fixed
