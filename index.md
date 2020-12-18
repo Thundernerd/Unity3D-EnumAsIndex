@@ -1,5 +1,3 @@
-# Enum As Index
-
 <p align="center">
 	<img alt="GitHub package.json version" src ="https://img.shields.io/github/package-json/v/Thundernerd/Unity3D-EnumAsIndex" />
 	<a href="https://github.com/Thundernerd/Unity3D-EnumAsIndex/issues">
@@ -13,8 +11,6 @@
 	</a>
 	<img alt="GitHub last commit" src ="https://img.shields.io/github/last-commit/Thundernerd/Unity3D-EnumAsIndex" />
 </p>
-
-An attribute that allows you to use an enum as an index for arrays and lists.
 
 ## Installation
 1. The package is available on the [openupm registry](https://openupm.com). You can install it via [openupm-cli](https://github.com/openupm/openupm-cli).
